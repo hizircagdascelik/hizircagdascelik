@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hizircagdascelik
-- 👀 I’m interested in OOP
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science, ML, OOP 
+- 🌱 I’m currently learning Tensorflow
+- 💞️ I’m looking to collaborate on any Data related projects.  
 - 📫 How to reach me via GitHub
 
 <!---
